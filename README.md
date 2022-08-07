@@ -1,7 +1,7 @@
 # toronto-housing
 House Toronto
 
-Heroku:  garvan.unsw@gmail.com Tram2022@
+
 + https://id.heroku.com/login
 
 # File sytem:
