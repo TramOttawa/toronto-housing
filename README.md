@@ -13,7 +13,7 @@ House Toronto
      |---- 3. Website: HTML (input box: information, output: prices)
      |---- 4. Write on Flask (deployment)
 ```
-+ Deployemnt: 
++ Deployment: 
   https://toronto-housing-prices.herokuapp.com/
   
 ```
