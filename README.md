@@ -4,8 +4,7 @@ House Toronto
 
 + https://id.heroku.com/login
 
-# File sytem:
-## How it works:
+# How it works:
 + File deployment structure
 ```
      |---- 1. Model (trained by Randomforest)
