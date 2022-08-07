@@ -48,3 +48,13 @@ Building log:
     To upgrade to Heroku-22, see:
     https://devcenter.heroku.com/articles/upgrading-to-the-latest-stack
 ```
+## Deloyment image:
+![Herokuapp_result0](https://user-images.githubusercontent.com/100484606/183279077-7f07baf8-32ce-4125-adc0-c5daea62fccd.JPG)
+
+### Prediction result 1:
+![Herokuapp_result1](https://user-images.githubusercontent.com/100484606/183279103-9aa0379e-3501-4101-a2c0-5068c226b58d.JPG)
+
+### Predicted result 2:
+![Herokuapp_result2](https://user-images.githubusercontent.com/100484606/183279125-5e8cde2f-ebf6-494c-afce-54cea9efb51c.JPG)
+
+
